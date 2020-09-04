@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brijeshsos66@gmail.com)
  
 
-<b>Talking about Personal related Activities:</b>
+### Talking about Personal related Activities:
 - 🔭 I’m currently working on <i>FrontEnd & BackEnd Technologies.</i>
 - 🌱 I’m currently learning <i>JavaScript & Problem Solving Skills.</i>
 - 👯 I’m looking to collaborate on <i>Open Source Contribution.</i>
@@ -14,17 +14,24 @@
 - 📫 How to reach me: brijeshsos66@gmail.com
 - ⚡ Fun-Fact:<i> I have a 100% guaranteed working tip for getting a referral.</i>
 
+### Technical Skills:
+➔ Languages: C, C++, Java, Python <br>
+➔ IT Constructs: Data Structures (DS), Algorithms, Object-Oriented Design (OOPS), OS, CN, and DBMS<br>
+➔ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
+➔ DB Language: SQL<br>
+➔ Other Tools: GIT, GitHub, onlinegdb, Eclipse.<br>
 
 
-## Languages and Hackathon Project: 
+### Languages: 
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats) <p> <a align="right" href="https://github.com/brijeshsos66/12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/ username=brijeshsos66&repo=12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19" /> </a>
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)
   
-## Stats:
+### Stats:
 
   [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)
 
 
 
 
-## Thank You for Visiting My Profile 😄 
+### Thank You for Visiting My Profile 😄 
+### Have a Nice Day :)
