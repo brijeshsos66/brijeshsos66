@@ -17,11 +17,11 @@
 
 
 
-**Languages and Stats:**  
+## Languages and Stats: 
 
 [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)     [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)
 
 
 
 
-**Thank You for Visiting My Profile 😄**  
+## Thank You for Visiting My Profile 😄 
