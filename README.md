@@ -1,9 +1,8 @@
-## Hi there 👋 I'm Brijesh Kumar, a recent college graduate student from India.❤
-[![Linkedin: brijeshsos66](https://img.shields.io/badge/-brijeshsos66-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brijeshsos66/)](https://www.linkedin.com/in/brijeshsos66/)
-[![GitHub brijeshsos66](https://img.shields.io/github/followers/brijeshsos66?label=follow&style=social)](https://github.com/brijeshsos66)
-<a href="https://instagram.com/brijesh_kr1999/">
-  <img align="left" alt="Brijesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+## Hi there 👋 I'm [Brijesh Kumar](https://brijeshsos66.live) a recent college graduate student from India.❤
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/brijeshsos66/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brijeshsos66/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/brijesh_kr1999/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brijeshsos66@gmail.com)
  
 
 <b>Talking about Personal related Activities:</b>
@@ -17,9 +16,14 @@
 
 
 
-## Languages and Stats: 
+## Languages and Hackathon Project: 
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)     [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)     <p align="center">
+  <a href="https://github.com/brijeshsos66/12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brijeshsos66&repo=12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19" /> </a>
+  
+## Stats:
+
+  [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats)
 
 
 
