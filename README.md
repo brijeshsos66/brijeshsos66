@@ -18,7 +18,7 @@
 
 ## Languages and Hackathon Project: 
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats) <a href="https://github.com/brijeshsos66/12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19"> <img src="https://github-readme-stats.vercel.app/api/pin/ username=brijeshsos66&repo=12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19" /> </a>
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshsos66)](https://github.com/brijeshsos66/github-readme-stats) <p> <a align="right" href="https://github.com/brijeshsos66/12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19"> <img align="right" src="https://github-readme-stats.vercel.app/api/pin/ username=brijeshsos66&repo=12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19" /> </a>
   
 ## Stats:
 
