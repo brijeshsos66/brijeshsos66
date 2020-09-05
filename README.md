@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on <i>FrontEnd & BackEnd Technologies.</i>
 - 🌱 I’m currently learning <i>JavaScript & Problem Solving Skills.</i>
 - 👯 I’m looking to collaborate on <i>Open Source Contribution.</i>
-- 🤔 I’m looking for help with <i>Android Development.</i>
+- 🤔 I’m looking for help with <i>Android Development, System Design.</i>
 - 💬 Ask me about <i>anything.</i> I'm happy to help you with <i>DS & Algo.</i>
 - 📫 How to reach me: brijeshsos66@gmail.com
 - ⚡ Fun-Fact:<i> I have a 100% guaranteed working tip for getting a referral.</i>
 
 ### Technical Skills:
-➔ Languages: C, C++, Java, Python <br>
+➔ Languages: C, C++, Java, Python, JS <br>
 ➔ IT Constructs: Data Structures (DS), Algorithms, Object-Oriented Design (OOPS), OS, CN, and DBMS<br>
 ➔ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
 ➔ DB Language: SQL<br>
