@@ -11,7 +11,8 @@
 - 👯 I’m looking to collaborate on <i>Open Source Contribution.</i>
 - 🤔 I’m looking for help with <i>Android Development, System Design.</i>
 - 💬 Ask me about <i>anything.</i> I'm happy to help you with <i>DS & Algo.</i>
-- 📫 How to reach me: brijeshsos66@gmail.com
+- 📫 How to reach me: <i>brijeshsos66@gmail.com</i>
+- 😎 Portfolio Website:<i> https://brijeshsos66.github.io/brijesh_portfolio</i>
 - ⚡ Fun-Fact:<i> I have a 100% guaranteed working tip for getting a referral.</i>
 
 ### Technical Skills:
