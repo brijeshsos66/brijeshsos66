@@ -16,11 +16,11 @@
 - ⚡ Fun-Fact:<i> I have a 100% guaranteed working tip for getting a referral.</i>
 
 ### Technical Skills:
-⭐ Languages: C, C++, Java, Python, JS <br>
-⭐ IT Constructs: Data Structures (DS), Algorithms, Object-Oriented Design (OOPS), OS, CN, and DBMS<br>
-⭐ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
-⭐ DB Language: SQL<br>
-⭐ Other Tools: GIT, GitHub, onlinegdb, Eclipse.<br>
+  ⭐ Languages: C, C++, Java, Python, JS <br>
+  ⭐ IT Constructs: Data Structures (DS), Algorithms, Object-Oriented Design (OOPS), OS, CN, and DBMS<br>
+  ⭐ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
+  ⭐ DB Language: SQL<br>
+  ⭐ Other Tools: GIT, GitHub, onlinegdb, Eclipse.<br>
 
 
 ### Languages: 
