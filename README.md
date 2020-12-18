@@ -18,6 +18,7 @@
 ### Technical Skills:
   ⭐ Languages: C, C++, Java, Python, JS <br>
   ⭐ IT Constructs: Data Structures (DS), Algorithms, Object-Oriented Design (OOPS), OS, CN, and DBMS<br>
+  ⭐ Frameworks: Spring MVC, Spring Boot<br>
   ⭐ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
   ⭐ DB Language: SQL<br>
   ⭐ Other Tools: GIT, GitHub, onlinegdb, Eclipse.<br>
