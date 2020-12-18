@@ -21,7 +21,7 @@
   ⭐ Frameworks: Spring MVC, Spring Boot<br>
   ⭐ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
   ⭐ DB Language: SQL<br>
-  ⭐ Other Tools: GIT, GitHub, onlinegdb, Eclipse.<br>
+  ⭐ Other Tools: onlinegdb, Eclipse, repl.it<br>
 
 
 ### Languages: 
