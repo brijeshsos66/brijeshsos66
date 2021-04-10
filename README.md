@@ -6,7 +6,7 @@
  
 
 ### Talking about Personal related Activities:
-- 🔭 I’m currently working on <i>FrontEnd & BackEnd Technologies.</i>
+- 🔭 I’m currently working as <i>Salesforce FullStack Developer.</i>
 - 🌱 I’m currently learning <i>JavaScript & Problem Solving Skills.</i>
 - 👯 I’m looking to collaborate on <i>Open Source Contribution.</i>
 - 🤔 I’m looking for help with <i>Android Development, System Design.</i>
