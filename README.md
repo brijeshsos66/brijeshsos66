@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Brijesh Kumar](https://brijeshsos66.live) a recent college graduate student from India.❤
+## Hi there 👋 I'm [Brijesh Kumar](https://brijeshsos66.live) a Software Engineer from India.❤
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/brijeshsos66/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brijeshsos66/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/brijesh_kr1999/)
@@ -6,20 +6,19 @@
  
 
 ### Talking about Personal related Activities:
-- 🔭 I’m currently working as <i>Salesforce FullStack Developer.</i>
-- 🌱 I’m currently learning <i>JavaScript & Problem Solving Skills.</i>
+- 🔭 I’m currently working as <i>Software Engineer.</i>
 - 👯 I’m looking to collaborate on <i>Open Source Contribution.</i>
-- 🤔 I’m looking for help with <i>Android Development, System Design.</i>
+- 🤔 I’m looking for help with <i>System Design.</i>
 - 💬 Ask me about <i>anything.</i> I'm happy to help you with <i>DS & Algo.</i>
 - 📫 How to reach me: <i>brijeshsos66@gmail.com</i>
 - 🤩 Portfolio Website:<i> https://brijeshsos66.github.io/brijesh_portfolio</i>
 - ⚡ Fun-Fact:<i> I have a 100% guaranteed working tip for getting a referral.</i>
 
 ### Technical Skills:
-  ⭐ Languages: C, C++, Java, Python, JS <br>
+  ⭐ Languages: C, C++, Java, Python, JS, Golang <br>
   ⭐ IT Constructs: Data Structures (DS), Algorithms, Object-Oriented Design (OOPS), OS, CN, DBMS & Salesforce<br>
   ⭐ Frameworks: Spring MVC, Spring Boot<br>
-  ⭐ Development tools: Microsoft Visual Studio, Anaconda3, and NetBeans<br>
+  ⭐ Development tools: Kubernetes, Docker, Microsoft Visual Studio, Anaconda3, and NetBeans<br>
   ⭐ DB Language: SQL<br>
   ⭐ Other Tools: onlinegdb, Eclipse, repl.it<br>
 
