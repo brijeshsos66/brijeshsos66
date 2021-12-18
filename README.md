@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Brijesh Kumar](https://brijeshsos66.live) a Software Engineer from India.❤
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/brijeshsos66/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]()
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brijeshsos66/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/brijesh_kr1999/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brijeshsos66@gmail.com)
  
@@ -10,8 +10,7 @@
 - 👯 I’m looking to collaborate on <i>Open Source Contribution.</i>
 - 🤔 I’m looking for help with <i>System Design.</i>
 - 💬 Ask me about <i>anything.</i> I'm happy to help you with <i>DS & Algo.</i>
-- 📫 How to reach me: <i> </i>
-- 🤩 Portfolio Website:<i> </i>
+- 🤩 Portfolio Website:<i>HIDDEN, UPDATING SOON!!!</i>
 - ⚡ Fun-Fact:<i> I have a 100% guaranteed working tip for getting a referral.</i>
 
 ### Technical Skills:
